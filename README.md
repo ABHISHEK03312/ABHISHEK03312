@@ -19,7 +19,8 @@ My name is Abhishek Vaidyanathan and I'm majoring in Data Science and Artificial
 
 <br/>
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Abhishek03312&show_icons=true&theme=radical)
+<!-- ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Abhishek03312&show_icons=true&theme=radical) -->
+![Abhishek's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek03312&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 <br/>
 
 ## Connect with me
