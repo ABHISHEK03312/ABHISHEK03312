@@ -26,4 +26,4 @@ My name is Abhishek Vaidyanathan and I'm majoring in Data Science and Artificial
 ## Connect with me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-vaidyanathan-3364b2196/)
 &nbsp; &nbsp;
-[![github](https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ABHISHEK03312)
+<!-- [![github](https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ABHISHEK03312) -->
