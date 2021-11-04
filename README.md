@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Abhishek Vaidyanathan and I'm majoring in Data Science and Artificial Intelligence in [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), Singapore. One of my goals for the upcoming year is to contribute more to Open Source Projects. 
+My name is Abhishek Vaidyanathan and I'm majoring in Data Science and Artificial Intelligence in [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), Singapore.
 
 <br/>
 
