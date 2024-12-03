@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Abhishek Vaidyanathan, working as a Data Scientist at [SAP]([https://www.ensigninfosecurity.com/](http://www.sap.com/)). I majored in Data Science and Artificial Intelligence in [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), Singapore
+My name is Abhishek Vaidyanathan, working as a Data Scientist at [SAP]([http://www.sap.com/]). I majored in Data Science and Artificial Intelligence in [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), Singapore
 
 <br/>
 
